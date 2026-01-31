@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class Main {
+public class q19 {
 
 
    public static void main(String[] args) {
